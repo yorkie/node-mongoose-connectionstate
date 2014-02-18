@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "mongoose": "~3.8.7"
-	},
+  },
   "author": "Yorkie Neil <yorkiefixer@gmail.com>",
   "license": "MIT",
   "bugs": {
